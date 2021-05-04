@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub](https://github-readme-stats.vercel.app/api?username=sunforest99&show_icons=true)
+
 <!--
 **sunforest99/sunforest99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
